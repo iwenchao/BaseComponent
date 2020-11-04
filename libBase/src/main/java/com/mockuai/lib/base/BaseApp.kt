@@ -8,10 +8,5 @@ package com.mockuai.lib.base
 
 class BaseApp {
 
-    //修改1
-    //修改2
-
-    //base 01
-    //base 02
 
 }
